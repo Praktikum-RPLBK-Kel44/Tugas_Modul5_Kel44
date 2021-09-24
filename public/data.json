@@ -1,0 +1,52 @@
+[
+    {
+        "nama": "Muhammad Abdul Majid",
+        "nim": "21120118140042",
+        "alamat": "Indonesia",
+        "email": "majid@mail.com",
+        "phone": "123456789"
+    },
+    {
+        "nama": "Pradana Ega Putra",
+        "nim": "21120118140075",
+        "alamat": "Indonesia",
+        "email": "ega@mail.com",
+        "phone": "987654321"
+    },
+
+    {
+        "nama": "Abdul",
+        "nim": "2365",
+        "alamat": "Indonesia",
+        "email": "2356@mail.com",
+        "phone": "355255"
+    },
+    {
+        "nama": "Majid",
+        "nim": "1235668",
+        "alamat": "Indonesia",
+        "email": "asfqqw@mail.com",
+        "phone": "23356887"
+    },
+    {
+        "nama": "Pradana",
+        "nim": "561850",
+        "alamat": "Indonesia",
+        "email": "1adfq@mail.com",
+        "phone": "12323265"
+    },
+    {
+        "nama": "Ega",
+        "nim": "2132567",
+        "alamat": "Indonesia",
+        "email": "516qed@mail.com",
+        "phone": "26523"
+    },
+    {
+        "nama": "Putra",
+        "nim": "321650",
+        "alamat": "Indonesia",
+        "email": "2158@mail.com",
+        "phone": "215623"
+    }
+]
