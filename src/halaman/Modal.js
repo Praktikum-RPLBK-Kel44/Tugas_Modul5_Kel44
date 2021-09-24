@@ -20,10 +20,10 @@ export default function MyVerticallyCenteredModal(props) {
           className="flex items-end justify-center min-h-screen pt-4 px-4 pb-20 text-center sm:block sm:p-0"
         >
           <Modal.Header closeButton>
-            <Modal.Title id="contained-modal-title-vcenter">Detail Informasi</Modal.Title>
+            <Modal.Title id="contained-modal-title-vcenter">Detail Informasi Kontak</Modal.Title>
           </Modal.Header>
           <Modal.Body>
-            <h4 style={{ fontFamily: font.value }}>Informasi Lebih Detail</h4>
+            <h4 style={{ fontFamily: font.value }}>Nomor handphone:</h4>
             <p>{props.phone}</p>
           </Modal.Body>
           <Modal.Footer>

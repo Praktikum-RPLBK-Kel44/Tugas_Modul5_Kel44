@@ -49,7 +49,7 @@ const Anggota = () => {
                     onHide={() => setModal(false)}
                     setfont={() => setValuefont(Font.secondary)}
                 />
-                <Grid container md={11} spacing={5} style={{ marginTop: "250px", marginLeft:"425px" }}>
+                <Grid container md={11} spacing={5} style={{ marginTop: "100px", marginLeft:"100px" }}>
                     {anggota.map((results) => {
                         return (
                             <Grid item key={results.nama} md={3}>
